@@ -1,0 +1,21 @@
+* {
+    
+  background-color: antiquewhite;
+}
+a, h1 {
+
+  color: rgba(78, 47, 0, 0.664);
+  font-family: "Timeless", sans-serif;
+  font-size: 1.5rem;
+}
+h1 {
+  color: rgba(78, 47, 0, 0.74);
+  font-family: "Timeless", sans-serif;
+  font-size: 2.6rem;
+  font-weight: 750;
+}
+p, li {
+  color: rgba(78, 47, 0, 0.74);
+  font-family: "Timeless", sans-serif;
+  font-weight: 750;
+}
