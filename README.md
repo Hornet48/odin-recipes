@@ -15,15 +15,23 @@ This project showcases a basic recipe website. Each recipe has its own page with
 - links for navigation
 - Embedding images
 
+  ## Features
+
+- Multi-page recipe website with navigation
+- Home page linking to 3 individual recipes
+- Descriptions, ingredients, and instructions for each dish
+- Responsive food images and GIFs
+- Basic semantic HTML structure
+
 ## Folder Structure
 
-odin-recipes/
-|-- index.html
-|-- Images/
-│ |-- cooking.gif
-│ |-- brownies.jpg
-|-- recipes/
-| |-- chicken-biryani.html
-| |-- sushi-roll.html
-| |-- brownies.html
-|-- README.md
+- odin-recipes/
+- |-- index.html
+- |-- Images/
+- │ |-- cooking.gif
+- │ |-- brownies.jpg
+- |-- recipes/
+- | |-- chicken-biryani.html
+- | |-- sushi-roll.html
+- | |-- brownies.html
+- |-- README.md
